@@ -35,7 +35,7 @@ function nextTwoPrimes(n) {
       }
     }
 
-  return result
+  return result 
 }
 
 console.log(nextTwoPrimes(2)); // => [ 3, 5 ]
